@@ -1,5 +1,5 @@
 # Proyecto Finalizacion - G3 
-![imagen del repo/proyecto](https://raw.githubusercontent.com/ianCristianAriel/CAC-4.0/main/imagen.png )
+![imagen](https://raw.githubusercontent.com/ianCristianAriel/CAC-4.0/main/imagen.png)
 
 ## Descripción
 El proyecto consiste en desarrollar un procesamiento de datos que incluya las siguientes etapas:
