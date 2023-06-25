@@ -45,7 +45,8 @@ Agregar funciones
 `pip3 install requerimientos.txt`
 
 ### Personas Desarrolladoras del Proyecto:
-- Agregar autores
+- @tomasescobar25
+- @goncor
 - @IanCristianAriel
 
 ### Licencia
