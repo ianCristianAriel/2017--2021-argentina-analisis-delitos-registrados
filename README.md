@@ -50,6 +50,9 @@ En proceso
 - Python
   - Numpy
   - Pandas
+  - Seaborn
+  - Matplotlib
+  - Sklearn
   
 #### Instalacion de paquetes`
 
@@ -58,7 +61,7 @@ En proceso
 ### Personas Desarrolladoras del Proyecto:
 - @tomasescobar25
 - @goncor
-- @agustinaar
+- @agustinar
 - @IanCristianAriel
 
 ### Licencia
