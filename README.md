@@ -33,7 +33,18 @@ En proceso
         └── README.md          <- Detalles por escrito.
 
 ### Funciones y aplicaciones:
-Agregar funciones
+
+- 1. ¿Cuál es la proporción de víctimas masculinas y femeninas en los delitos registrados?
+- 2. ¿Cuáles son los departamentos con mayor número de delitos?
+- 3. ¿Cuáles son los motivos más comunes que originaron el registro de un delito?
+- 4. ¿Existe alguna relación entre el mes del año y la cantidad de delitos?
+- 5. ¿Hay alguna relación entre el lugar y el género de la victima? Cual es el genero que mayormente ocupa el rol de la victima?, que proporcion hay para cada sexo?
+- 6. ¿Hay alguna relación entre el lugar y el género del inculpado? Cual es el genero que mayormente ocupa el rol de inculpad@?, que proporcion hay para cada sexo?
+- 7. Cantidad de hechos por año?, cuales son los 3 años con mayor numero de delitos?
+- 8. Relacion entre la cantidad de inculpados y victimas por hecho
+- 9. 3 principales clases de victimas y la relacion de sexo de cada una.
+- 10. Relacion entre la edad y el sexo de la victima
+- 11. Relacion entre la edad y el sexo del inculpado
 
 ### Tecnologías utilizadas:
 - Python
@@ -47,6 +58,7 @@ Agregar funciones
 ### Personas Desarrolladoras del Proyecto:
 - @tomasescobar25
 - @goncor
+- @agustinaar
 - @IanCristianAriel
 
 ### Licencia
