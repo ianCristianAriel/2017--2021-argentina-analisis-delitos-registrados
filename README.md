@@ -25,7 +25,9 @@ En proceso
         │   └── brutos           <- CSV originales.
         │
         ├── notebooks          <- Notebooks y/o Scripts.
-        │
+        │   ├── borradores     <- Utilizados para cuestiones estructurales.
+        │   └── limpios        <- Fraccionados por etapa del proyecto.
+        |
         ├── .gitignore         <- Arhivos para ignorar por `git`.
         │
         ├── requerimientos.txt    <- Paquetes y dependencias.
