@@ -2,17 +2,18 @@
 ![imagen](https://raw.githubusercontent.com/ianCristianAriel/proc_datos_proyecto_final_G3/main/imagen.png)
 
 ## Descripción
-El proyecto consiste en desarrollar un procesamiento de datos de hechos delictivos en Argentina comprendidos entre los años 2017 y 2021, que incluye las siguientes etapas:
 
-**Recolección y preparación de datos:** Obtener el conjuntos de datos relevante para el tema elegido. Realizar tareas de limpieza, integración y transformación necesarias para preparar los datos para el análisis.
+El proyecto consiste en desarrollar un procesamiento de datos de hechos delictivos registrados en Argentina comprendidos entre los años 2017 y 2021 e incluye las siguientes etapas:
 
-**Análisis exploratorio de datos:** Aplicar técnicas de análisis exploratorio para comprender y explorar los datos en profundidad. Esto incluye la identificación de relaciones, valores atípicos y distribuciones de variables.
+**Recolección y preparación de datos:** Se recolectaron datos relevantes al tema elegido en https://www.datos.gob.ar/. Se realizaron tareas de limpieza y transformación necesarias para preparar los datos para el análisis.
 
-**Procesamiento y análisis de datos:** Aplicar técnicas de procesamiento de datos para realizar tareas como filtrado, agregación, transformación y cálculo de métricas relevantes para el tema elegido. 
+**Análisis exploratorio de datos:** Se aplicaron técnicas de análisis exploratorio para acercarnos a los datos de manera despcritiva en primer lugar, y luego más en profundidad. Se incluye la identificación de posibles relaciones, valores atípicos y distribuciones de variables.
 
-**Visualización de datos:** Utilizar técnicas y herramientas de visualización de datos para representar gráficamente la información obtenida. Se deben explorar diferentes técnicas de visualización, como gráficos de barras, gráficos de dispersión, diagramas de caja, mapas, entre otros. Además, aplicar técnicas de visualización de múltiples variables para identificar relaciones y patrones complejos en los datos.
+**Procesamiento y análisis de datos:** Se aplicaron técnicas de procesamiento de datos para realizar tareas como filtrado, agregación, transformación y cálculo de métricas relevantes para responder aquellos interrogantes planteados con antelación al análisis.
 
-**Comunicación efectiva de resultados:** Generar reportes que presenten de manera clara y concisa los resultados obtenidos durante el procesamiento y análisis de datos.
+**Visualización de datos:** Se utilizaron técnicas y herramientas de visualización de datos para representar gráficamente la información obtenida en relación a los objetivos planteados.
+
+**Comunicación efectiva de resultados:** Se genera un reporte que presenta de manera clara y concisa los resultados obtenidos durante el procesamiento y análisis de datos.
 
 ### Estado del proyecto:
 Finalizado
@@ -40,7 +41,7 @@ Finalizado
 - 2. ¿Cuáles son los departamentos con mayor número de delitos?
 - 3. ¿Cuáles son los motivos más comunes que originaron el registro de un delito?
 - 4. ¿Existe alguna relación entre el mes del año y la cantidad de delitos?
-- 5. ¿Hay alguna relación entre el lugar y el género de la victima? Cual es el genero que mayormente ocupa el rol de la victima?, que proporcion hay para cada sexo?
+- 5. ¿Hay alguna relación entre el lugar y el género de la victima? Cual es el genero que mayormente ocupa el rol de la victima?, que proporción hay para cada sexo?
 - 6. ¿Hay alguna relación entre el lugar y el género del inculpado? Cual es el genero que mayormente ocupa el rol de inculpad@?, que proporcion hay para cada sexo?
 - 7. Cantidad de hechos por año?, cuales son los 3 años con mayor numero de delitos?
 - 8. Relacion entre la cantidad de inculpados y victimas por hecho
