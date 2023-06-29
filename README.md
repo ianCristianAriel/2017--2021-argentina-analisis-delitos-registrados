@@ -2,13 +2,13 @@
 ![imagen](https://raw.githubusercontent.com/ianCristianAriel/proc_datos_proyecto_final_G3/main/imagen.png)
 
 ## Descripción
-El proyecto consiste en desarrollar un procesamiento de datos que incluya las siguientes etapas:
+El proyecto consiste en desarrollar un procesamiento de datos de hechos delictivos en Argentina comprendidos entre los años 2017 y 2021, que incluye las siguientes etapas:
 
-**Recolección y preparación de datos:** Obtener o recolectar conjuntos de datos relevantes para el tema elegido. Realizar las tareas de limpieza, integración y transformación necesarias para preparar los datos para el análisis.
+**Recolección y preparación de datos:** Obtener el conjuntos de datos relevante para el tema elegido. Realizar tareas de limpieza, integración y transformación necesarias para preparar los datos para el análisis.
 
-**Análisis exploratorio de datos:** Aplicar técnicas de análisis exploratorio para comprender y explorar los datos en profundidad. Esto puede incluir la identificación de patrones, relaciones, valores atípicos y distribuciones de variables.
+**Análisis exploratorio de datos:** Aplicar técnicas de análisis exploratorio para comprender y explorar los datos en profundidad. Esto incluye la identificación de relaciones, valores atípicos y distribuciones de variables.
 
-**Procesamiento y análisis de datos:** Aplicar técnicas de procesamiento de datos para realizar tareas como filtrado, agregación, transformación y cálculo de métricas relevantes para el tema elegido. Utilizar herramientas de software y lenguajes de programación adecuados para llevar a cabo estas tareas.
+**Procesamiento y análisis de datos:** Aplicar técnicas de procesamiento de datos para realizar tareas como filtrado, agregación, transformación y cálculo de métricas relevantes para el tema elegido. 
 
 **Visualización de datos:** Utilizar técnicas y herramientas de visualización de datos para representar gráficamente la información obtenida. Se deben explorar diferentes técnicas de visualización, como gráficos de barras, gráficos de dispersión, diagramas de caja, mapas, entre otros. Además, aplicar técnicas de visualización de múltiples variables para identificar relaciones y patrones complejos en los datos.
 
