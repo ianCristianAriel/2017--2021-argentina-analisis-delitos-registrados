@@ -15,7 +15,7 @@ El proyecto consiste en desarrollar un procesamiento de datos que incluya las si
 **Comunicación efectiva de resultados:** Generar reportes que presenten de manera clara y concisa los resultados obtenidos durante el procesamiento y análisis de datos.
 
 ### Estado del proyecto:
-En proceso
+Finalizado
 
 ### Estructura de directorios y archivos resultantes
 
