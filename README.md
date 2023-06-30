@@ -62,10 +62,10 @@ Finalizado
 `pip3 install requerimientos.txt`
 
 ### Personas Desarrolladoras del Proyecto:
-- @tomasescobar25
-- @goncor
-- @agustinar
-- @IanCristianAriel
+- @[tomasescobar25](https://github.com/tomasescobar25)
+- @[goncor](https://github.com/GonCor)
+- @[agustinar](https://github.com/agustinarr)
+- @[IanCristianAriel](https://github.com/ianCristianAriel)
 
 ### Licencia
 Creative Commons
