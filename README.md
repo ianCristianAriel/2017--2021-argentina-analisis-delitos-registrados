@@ -22,7 +22,7 @@ Finalizado
 
 ### Estructura de directorios y archivos resultantes
 
-    2017 - 2021, Argentina - Analisis de delitos
+    2017 - 2021 Argentina, delitos registrados
         │
         ├── datos
         │   ├── procesados      <-CSV proesados.
