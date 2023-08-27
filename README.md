@@ -22,7 +22,8 @@ Finalizado
 
 ### Estructura de directorios y archivos resultantes
 
-    Proyecto finalizacion - G3
+    Analisis de delitos, Argentina 2017 - 2021
+        │
         ├── datos
         │   ├── procesados      <-CSV proesados.
         │   └── brutos           <- CSV originales.
