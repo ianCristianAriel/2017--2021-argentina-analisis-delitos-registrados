@@ -1,6 +1,6 @@
 # Proyecto Finalización - G3
 
-<img src="https://raw.githubusercontent.com/ianCristianAriel/proc_datos_proyecto_final_G3/main/imagen.png" alt="Imagen del Proyecto" width="400">
+<img src="https://raw.githubusercontent.com/ianCristianAriel/proc_datos_proyecto_final_G3/main/imagen.png" alt="Imagen del Proyecto" width="1300" height="400">
 
 ## Estado del Proyecto
 Finalizado
