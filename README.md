@@ -1,5 +1,6 @@
 # Proyecto Finalización - G3
-![Imagen del Proyecto](./imagen.png)
+
+<img src="https://raw.githubusercontent.com/ianCristianAriel/proc_datos_proyecto_final_G3/main/imagen.png" alt="Imagen del Proyecto" width="400">
 
 ## Estado del Proyecto
 Finalizado
